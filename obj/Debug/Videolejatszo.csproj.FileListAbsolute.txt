@@ -1,0 +1,15 @@
+C:\Users\HP 255\source\repos\Videolejatszo\bin\Debug\Videolejatszo.exe.config
+C:\Users\HP 255\source\repos\Videolejatszo\bin\Debug\Videolejatszo.exe
+C:\Users\HP 255\source\repos\Videolejatszo\bin\Debug\Videolejatszo.pdb
+C:\Users\HP 255\source\repos\Videolejatszo\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP 255\source\repos\Videolejatszo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP 255\source\repos\Videolejatszo\obj\Debug\Videolejatszo.csprojAssemblyReference.cache
+C:\Users\HP 255\source\repos\Videolejatszo\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP 255\source\repos\Videolejatszo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP 255\source\repos\Videolejatszo\obj\Debug\Videolejatszo.csproj.ResolveComReference.cache
+C:\Users\HP 255\source\repos\Videolejatszo\obj\Debug\Videolejatszo.Form1.resources
+C:\Users\HP 255\source\repos\Videolejatszo\obj\Debug\Videolejatszo.Properties.Resources.resources
+C:\Users\HP 255\source\repos\Videolejatszo\obj\Debug\Videolejatszo.csproj.GenerateResource.cache
+C:\Users\HP 255\source\repos\Videolejatszo\obj\Debug\Videolejatszo.csproj.CoreCompileInputs.cache
+C:\Users\HP 255\source\repos\Videolejatszo\obj\Debug\Videolejatszo.exe
+C:\Users\HP 255\source\repos\Videolejatszo\obj\Debug\Videolejatszo.pdb
